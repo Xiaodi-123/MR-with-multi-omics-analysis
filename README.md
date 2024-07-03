@@ -19,11 +19,10 @@
 * biMR analysis.R further confirmed that SNPs cause SSc-ILD rather than the reverse. The SNPs within the N4BP2L1 gene have been confirmed to contribute to the pathogenesis of SSc-ILD.
 * regional association plot.R helps reveal the genetic association analysis of SNPs within N4BP2L1 with traits related to SSc-ILD.
 * steiger filtering.R computes the amount of variance each SNP explains in the exposure and in the outcome variable.
+* phenoscanner.R allows us to query the PhenoScanner database of genotype-phenotype associations from inside R - phenoscanner/phenoscanner. 
 
 ## Downstream analysis of the gene N4BP2L1 regarding its impact on the pathogenesis of SSc-ILD and IPF
+* The scripts gene expression.R and dynamic gene expression analysis.R respectively explore the static and dynamic expression patterns of N4BP2L1 across various cell types.
+* sc-metabolism analysis.R elucidates the metabolic alterations induced by N4BP2L1 in CD8+ TEFF cells.
+* bulk RNA analysis.R validates the differential gene expression of N4BP2L1 between IPF or SSc-ILD and healthy control groups.
 
-
-### 三级标题
-
-* 要点一
-* 要点二
